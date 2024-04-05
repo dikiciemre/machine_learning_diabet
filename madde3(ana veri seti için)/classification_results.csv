@@ -1,0 +1,4 @@
+Model,Test Kümesi Performans Metrikleri,Konfüzyon Matrisi,Hassasiyet (Precision),Özgüllük (Recall),F1 Skoru
+Çoklu Doğrusal Regresyon,0.41956328491828304,"[[120  31]
+ [ 30  50]]",0.6172839506172839,0.625,0.6211180124223602
+Multinominal Lojistik Regresyon,0.7359307359307359,,,,

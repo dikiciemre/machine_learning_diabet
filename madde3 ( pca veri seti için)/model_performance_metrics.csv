@@ -1,0 +1,3 @@
+Model,Performance Metric,Value
+Linear Regression,Mean Squared Error,0.18508327253113513
+Multinomial Logistic Regression,Accuracy,0.7186147186147186
